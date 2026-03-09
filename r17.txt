@@ -1,0 +1,3 @@
+ROLE_ID: R17
+ROLE_TOKEN: titanio-azul-4017
+FORBIDDEN_TOKEN: cobre-rojo-8821
